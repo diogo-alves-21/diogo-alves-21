@@ -1,8 +1,8 @@
-# ⚡️ Hi, I'm Diogo Alves
+<h1 align="center">⚡️ Hi, I'm Diogo Alves</h1>
 
-💻 **Software Engineer**  
-📍 Leiria, Portugal  
-🏢 Currently working at **VOID Software**
+<p align="center">
+💻 <strong>Software Engineer</strong> • 📍 Leiria, Portugal • 🏢 VOID Software
+</p>
 
 ---
 
@@ -18,47 +18,63 @@ Driven by curiosity and continuous improvement, I strive to deepen my understand
 
 ## 🎯 Current Goal
 
-My current goal is to specialize in backend development, focusing on building high-performance and scalable services using technologies like Java and modern cloud-native tools.
+My current goal is to specialize in backend development, focusing on building high-performance and scalable services using technologies like **Java** and modern **cloud-native tools**.
 
 ---
 
 ## 🛠 Tech Stack
 
-### Coding
-[![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)](#)
-[![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=fff)](#)
-[![Hibernate](https://img.shields.io/badge/Hibernate-59666C?logo=hibernate&logoColor=fff)](#)
-[![Ruby](https://img.shields.io/badge/Ruby-%23CC342D.svg?&logo=ruby&logoColor=white)](#)
-[![Rails](https://img.shields.io/badge/Rails-%23CC0000.svg?logo=ruby-on-rails&logoColor=white)](#)
+### Languages & Frameworks
+
+[![Java](https://img.shields.io/badge/Code-Java-c41a14?logo=openjdk&logoColor=fff&style=flat-square)](#)
+[![Spring Boot](https://img.shields.io/badge/Code-Spring%20Boot-c41a14?logo=springboot&logoColor=fff&style=flat-square)](#)
+[![Hibernate](https://img.shields.io/badge/Code-Hibernate-c41a14?logo=hibernate&logoColor=fff&style=flat-square)](#)
+[![Ruby](https://img.shields.io/badge/Code-Ruby-c41a14?logo=ruby&logoColor=fff&style=flat-square)](#)
+[![Rails](https://img.shields.io/badge/Code-Rails-c41a14?logo=ruby-on-rails&logoColor=fff&style=flat-square)](#)
 
 ### Databases
-[![Postgres](https://img.shields.io/badge/Postgres-%23316192.svg?logo=postgresql&logoColor=white)](#)
-[![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff)](#)
-[![Redis](https://img.shields.io/badge/Redis-%23DD0031.svg?logo=redis&logoColor=white)](#)
 
-### DevOps & Tools
-[![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=fff)](#)
-[![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff)](#)
-[![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=fff)](#)
+[![Postgres](https://img.shields.io/badge/Database-Postgres-c41a14?logo=postgresql&logoColor=fff&style=flat-square)](#)
+[![MySQL](https://img.shields.io/badge/Database-MySQL-c41a14?logo=mysql&logoColor=fff&style=flat-square)](#)
+[![Redis](https://img.shields.io/badge/Database-Redis-c41a14?logo=redis&logoColor=fff&style=flat-square)](#)
+
+### Tools
+
+[![Bash](https://img.shields.io/badge/Shell-Bash-c41a14?logo=gnubash&logoColor=fff&style=flat-square)](#)
+[![Docker](https://img.shields.io/badge/Tools-Docker-c41a14?logo=docker&logoColor=fff&style=flat-square)](#)
+[![Kubernetes](https://img.shields.io/badge/Tools-Kubernetes-c41a14?logo=kubernetes&logoColor=fff&style=flat-square)](#)
+
+---
+
+## 📈 GitHub Activity
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=diogo-alves-21&show_icons=true&hide_border=true&title_color=c41a14&icon_color=c41a14&text_color=555&bg_color=ffffff" height="165">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=diogo-alves-21&layout=compact&hide_border=true&title_color=c41a14" height="165">
+</p>
+
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=diogo-alves-21&hide_border=true&ring=c41a14&fire=c41a14&currStreakLabel=c41a14">
+</p>
 
 ---
 
 ## 📈 What I'm Working On
 
-- Building reliable systems in Java
+- Building reliable systems in **Java**
 - Cloud-native development
-- Working with containerized infrastructure
-- Improving distributed systems design skills
+- Working with **containerized infrastructure**
+- Improving **distributed systems design** skills
 
 ---
 
 ## 📫 Connect With Me
 
-- GitHub: https://github.com/diogo-alves-21
-- LinkedIn: https://www.linkedin.com/in/diogo-alves-284097269/
+- GitHub → https://github.com/diogo-alves-21  
+- LinkedIn → https://www.linkedin.com/in/diogo-alves-284097269/
 
 ---
 
-<h5 align="center">
-  <em>"Clarity emerges when complexity is understood."</em>
-</h5>
+<p align="center">
+<em>"Clarity emerges when complexity is understood."</em>
+</p>
