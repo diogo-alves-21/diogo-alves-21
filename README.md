@@ -8,7 +8,7 @@
 
 ## 🚀 About Me
 
-I’m a software engineer focused on building reliable and scalable backend systems.
+I’m a software engineer focused on building reliable and scalable systems.
 
 I enjoy working on meaningful systems that can make a difference in people's lives and become an important part of their daily routines, where complexity becomes an opportunity to design clear and resilient solutions.
 
@@ -18,7 +18,8 @@ Driven by curiosity and continuous improvement, I strive to deepen my understand
 
 ## 🎯 Current Goal
 
-My current goal is to specialize in backend development, focusing on building high-performance and scalable services using technologies like **Java** and modern **cloud-native tools**.
+I'm currently focusing on improving my skills to specialize in backend development with Java. 
+I'm working on strengthening my knowledge of scalable system design, distributed architectures, and modern cloud-native development practices.
 
 ---
 
