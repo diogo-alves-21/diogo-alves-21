@@ -24,21 +24,15 @@ My current goal is to specialize in backend development, focusing on building hi
 
 ## 🛠 Tech Stack
 
-### Languages & Frameworks
-
 [![Java](https://img.shields.io/badge/Code-Java-c41a14?logo=openjdk&logoColor=fff&style=flat-square)](#)
 [![Spring Boot](https://img.shields.io/badge/Code-Spring%20Boot-c41a14?logo=springboot&logoColor=fff&style=flat-square)](#)
 [![Hibernate](https://img.shields.io/badge/Code-Hibernate-c41a14?logo=hibernate&logoColor=fff&style=flat-square)](#)
 [![Ruby](https://img.shields.io/badge/Code-Ruby-c41a14?logo=ruby&logoColor=fff&style=flat-square)](#)
 [![Rails](https://img.shields.io/badge/Code-Rails-c41a14?logo=ruby-on-rails&logoColor=fff&style=flat-square)](#)
 
-### Databases
-
 [![Postgres](https://img.shields.io/badge/Database-Postgres-c41a14?logo=postgresql&logoColor=fff&style=flat-square)](#)
 [![MySQL](https://img.shields.io/badge/Database-MySQL-c41a14?logo=mysql&logoColor=fff&style=flat-square)](#)
 [![Redis](https://img.shields.io/badge/Database-Redis-c41a14?logo=redis&logoColor=fff&style=flat-square)](#)
-
-### Tools
 
 [![Bash](https://img.shields.io/badge/Shell-Bash-c41a14?logo=gnubash&logoColor=fff&style=flat-square)](#)
 [![Docker](https://img.shields.io/badge/Tools-Docker-c41a14?logo=docker&logoColor=fff&style=flat-square)](#)
