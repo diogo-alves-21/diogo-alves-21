@@ -30,6 +30,8 @@ I'm working on strengthening my knowledge of scalable system design, distributed
 [![Hibernate](https://img.shields.io/badge/Code-Hibernate-c41a14?logo=hibernate&logoColor=fff&style=flat-square)](#)
 [![Ruby](https://img.shields.io/badge/Code-Ruby-c41a14?logo=ruby&logoColor=fff&style=flat-square)](#)
 [![Rails](https://img.shields.io/badge/Code-Rails-c41a14?logo=ruby-on-rails&logoColor=fff&style=flat-square)](#)
+[![TypeScript](https://img.shields.io/badge/Code-TypeScript-c41a14?logo=typescript&logoColor=fff&style=flat-square)](#)
+[![React](https://img.shields.io/badge/Code-React-c41a14?logo=react&logoColor=fff&style=flat-square)](#)
 
 [![Postgres](https://img.shields.io/badge/Database-Postgres-c41a14?logo=postgresql&logoColor=fff&style=flat-square)](#)
 [![MySQL](https://img.shields.io/badge/Database-MySQL-c41a14?logo=mysql&logoColor=fff&style=flat-square)](#)
