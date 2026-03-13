@@ -18,7 +18,7 @@ Driven by curiosity and continuous improvement, I strive to deepen my understand
 
 ## 🎯 Current Goal
 
-I'm currently focusing on improving my skills to specialize in backend development with Java. 
+I'm currently focusing on improving my skills to specialize in backend development. 
 I'm working on strengthening my knowledge of scalable system design, distributed architectures, and modern cloud-native development practices.
 
 ---
@@ -56,7 +56,7 @@ I'm working on strengthening my knowledge of scalable system design, distributed
 
 ## 📈 What I'm Working On
 
-- Building reliable systems in **Java**
+- Building reliable pratical systems
 - Cloud-native development
 - Working with **containerized infrastructure**
 - Improving **distributed systems design** skills
