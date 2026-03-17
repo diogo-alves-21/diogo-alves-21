@@ -69,6 +69,7 @@ I'm working on strengthening my knowledge of scalable system design, distributed
 
 - GitHub → https://github.com/diogo-alves-21  
 - LinkedIn → https://www.linkedin.com/in/diogo-alves-284097269/
+- Email → diogo.ds.alves21@gmail.com
 
 ---
 
