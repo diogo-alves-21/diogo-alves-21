@@ -43,15 +43,11 @@ I'm working on strengthening my knowledge of scalable system design, distributed
 
 ---
 
-## 📈 GitHub Activity
+## 👨‍💻 Activity
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=diogo-alves-21&show_icons=true&hide_border=true&title_color=c41a14&icon_color=c41a14&text_color=555&bg_color=ffffff" height="165">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=diogo-alves-21&layout=compact&hide_border=true&title_color=c41a14" height="165">
-</p>
-
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=diogo-alves-21&hide_border=true&ring=c41a14&fire=c41a14&currStreakLabel=c41a14">
 </p>
 
 ---
