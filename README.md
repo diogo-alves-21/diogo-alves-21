@@ -10,16 +10,17 @@
 
 I’m a software engineer focused on building reliable and scalable systems.
 
-I enjoy working on meaningful systems that can make a difference in people's lives and become an important part of their daily routines, where complexity becomes an opportunity to design clear and resilient solutions.
+Recently, I’ve been expanding my focus into AI-powered applications and LLM integration, exploring how intelligent systems can enhance real-world products and workflows.
 
-Driven by curiosity and continuous improvement, I strive to deepen my understanding of systems and craft software that is both robust and elegant.
+I enjoy working on meaningful systems that can make a difference in people's lives—especially where complexity becomes an opportunity to design clear, resilient, and increasingly intelligent solutions.
+
+Driven by curiosity and continuous improvement, I strive to deepen my understanding of distributed systems while leveraging modern AI capabilities to build software that is both robust and adaptive.
 
 ---
 
 ## 🎯 Current Goal
 
-I'm currently focusing on improving my skills to specialize in backend development. 
-I'm working on strengthening my knowledge of scalable system design, distributed architectures, and modern cloud-native development practices.
+I'm currently focusing on growing as a backend engineer while integrating AI into my projects.
 
 ---
 
@@ -58,6 +59,7 @@ I'm working on strengthening my knowledge of scalable system design, distributed
 - Cloud-native development
 - Working with **containerized infrastructure**
 - Improving **distributed systems design** skills
+- Exploring **AI/LLM integration** in backend systems
 
 ---
 
