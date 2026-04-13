@@ -10,7 +10,7 @@
 
 I’m a software engineer focused on building reliable and scalable systems.
 
-Recently, I’ve been expanding my focus into AI-powered applications and LLM integration, exploring how intelligent systems can enhance real-world products and workflows.
+Recently, I’ve been expanding my focus into AI-powered applications and LLM integration, exploring how intelligent systems can enhance real world products and workflows.
 
 I enjoy working on meaningful systems that can make a difference in people's lives—especially where complexity becomes an opportunity to design clear, resilient, and increasingly intelligent solutions.
 
