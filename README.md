@@ -68,9 +68,3 @@ I'm currently focusing on growing as a backend engineer while integrating AI int
 - GitHub → https://github.com/diogo-alves-21  
 - LinkedIn → https://www.linkedin.com/in/diogo-alves-284097269/
 - Email → diogo.ds.alves21@gmail.com
-
----
-
-<p align="center">
-<em>"Clarity emerges when complexity is understood."</em>
-</p>
