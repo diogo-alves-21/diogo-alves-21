@@ -59,6 +59,5 @@ Driven by curiosity and continuous improvement, I strive to deepen my understand
 
 ## 📫 Connect With Me
 
-- GitHub → https://github.com/diogo-alves-21  
 - LinkedIn → https://www.linkedin.com/in/diogo-alves-284097269/
 - Email → diogo.ds.alves21@gmail.com
