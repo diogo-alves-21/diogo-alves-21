@@ -4,8 +4,6 @@
 💻 <strong>Software Engineer</strong> • 📍 Leiria, Portugal • 🏢 VOID Software
 </p>
 
----
-
 ## 🚀 About Me
 
 My goal is to grow as an engineer by building things that matter. Every project I take on has a concrete objective, whether that's solving a real problem or making someone's life a little easier.
