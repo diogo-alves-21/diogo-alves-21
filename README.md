@@ -15,8 +15,8 @@ I'm drawn to complexity, not for its own sake, but because it's where the most i
 ## 👨‍💻 Activity
 
 <p align="center">
-<img src="https://github-stats-extended.vercel.app/api?username=diogo-alves-21&custom_title=My%20GitHub%20Stats&show_icons=true&include_all_commits=true&theme=buefy&border_color=e4e2e2" height="165">
-<img src="https://streak-stats.demolab.com?user=diogo-alves-21&theme=buefy&border=e4e2e2" height="165">
+<img src="https://github-stats-extended.vercel.app/api?username=diogo-alves-21&custom_title=My%20GitHub%20Stats&show_icons=true&include_all_commits=true&theme=swift&border_color=e4e2e2&bg_color=ffffff" height="165">
+<img src="https://streak-stats.demolab.com?user=diogo-alves-21&theme=swift&border=e4e2e2&background=ffffff" height="165">
 </p>
 
 ## 📫 Connect With Me
