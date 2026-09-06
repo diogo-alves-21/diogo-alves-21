@@ -21,5 +21,5 @@ I'm drawn to complexity, not for its own sake, but because it's where the most i
 
 ## 📫 Connect With Me
 
-- LinkedIn → https://www.linkedin.com/in/diogo-alves-284097269/
+- LinkedIn → https://www.linkedin.com/in/diogo-alves-284097269
 - Email → diogo.ds.alves21@gmail.com
